@@ -1,0 +1,34 @@
+Application: MusicOn    
+    
+What does it do?    
+- Search artist to find out about them    
+- listen to their music and check upcoming concerts    
+
+APIS    
+Wikepedia    Jose
+Spotify    Juan
+Ticketmaster    Jorge
+    
+New Library    
+User input validation (Jquery Validate)    
+    
+Fornt End HTML/CSS/Boostrap    
+Carolina will create it with various containers    
+for the artist bio, spotify music, ticketmaster tickets
+
+Pseudocode:
+
+1- Bootstrap
+     - earch bar to find artist
+     - tour dates
+     - Artist Information (wikepedia)
+     - Music
+     - Favorite artist
+
+2- API pulling
+     - spotify
+     - wikepedia
+     - ticketmaster
+
+3- Firebase
+     - store favorite artist
